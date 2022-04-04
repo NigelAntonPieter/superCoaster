@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title></title>
+  <title>SuperCoaster</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -25,12 +25,7 @@
 <body>
 
   <!-- Add your site or application content here -->
-  <?php
-    echo file_get_contents('doc/contactgegevens.txt');
-  ?>
-  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+  <h1></h1>
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
