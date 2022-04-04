@@ -86,7 +86,44 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+html{
+    font-size: 16px;
+}
 
+body{
+    font-family: Arial;
+}
+
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header{
+    border-bottom: 1px solid lightgrey;
+    font-size: 1.25rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    height: 5rem;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+h1+a{
+    display: block;
+    margin-bottom: 1.5rem;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
