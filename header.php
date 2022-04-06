@@ -1,10 +1,10 @@
 <Header>
 	<div class="container">
 		<nav>
-			<img src="<?php echo $base_url; ?>/img/LOGO.jpg" alt="logo" class="logo">
-			<a href="<?php echo $base_url; ?>/index.php">Home</a> |
-			<a href="<?php echo $base_url; ?>/car.php">Karretjes</a> |
-			<a href="<?php echo $base_url; ?>/form.php">Contactformulier</a> 
+			<img src="img/logo-big-v4.png" alt="logo" class="logo">
+			<a href="index.php">Home</a> |
+			<a href="carr.php">Karretjes</a> |
+			<a href="form.php">Contactformulier</a> 
 
 		</nav>
 	</div>
