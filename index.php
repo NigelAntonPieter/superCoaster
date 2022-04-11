@@ -35,7 +35,7 @@
           <div class="box4">
             <div class="mama">
 
-              <img src="img/ONGS7557.JPG" alt="foto">
+              <img src="img/ONGS7557.JPG" alt="foto van oprichter">
               <p>Ik ben lenny maarten. 55 jaar geleden geboren op curaçao maar woon inmiddels al 27 jaar in Nederland. Ooit hiernaar toegekomen voor een studie maar na een aantal opleidingen in de ICT besloten om toch hier te blijven. Dansen is mijn passie. Vooral op Zuid-Amerikaans en Afrikaans muziek. Daarnaast ontspan ik me lekker tijdens een wandeling. Ik mediteer graag, kijk naar films en documentaires en kan me goed vermaken met een spannend boek.</p>
 
               <p>Al van kleins af aan was ik geïnteresseerd in alles wat te maken heeft met het leven hierop aarde. Met name het menselijk lichaam, hoe het functioneert, wat het nodig heeft en wat we zelf aan kunnen doen om ervoor te zorgen dat we gezond blijven. Zelf heb ik een tijdlang gesport en me beziggehouden met gezonde voeding. Ik merkte wel dat hoe ouder je wordt hoe minder gemotiveerd je blijft. Dat is ook de reden waarom ik voor mezelf heb besloten om de draad weer op te pakken en op zoek te gaan naar relevante informatie die mij kan helpen om een gezonde levensstijl te behouden en daarnaast ook gemotiveerd te blijven.</p>
