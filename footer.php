@@ -1,11 +1,11 @@
 <footer>
 
-	<img src="img/facebook.png" alt="logolink">
+	<img src="img/facebook.png" alt="logolink" class="logo">
 
 <p> Facebook</p>
 
 
-<img src="img/instagram.jpg" alt="logolink">
+<img src="img/instagram.jpg" alt="logolink" class="logo">
 
 <p> Instagram</p>
 
@@ -15,7 +15,7 @@
 	<h3>Contactgegevens:</h3>
 	<ul>
 		<li>telefoonnummer: 0636******.</li>
-		<li>Email: g.maarten@*****.nl.</li>
+		<li>Email: a.visser@*****.nl.</li>
 		<li>adres: ****straat 8 4812**</li>
 
 	</ul>
