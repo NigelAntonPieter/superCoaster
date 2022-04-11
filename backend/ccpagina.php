@@ -8,6 +8,7 @@ file_put_contents('ccpagina.txt', $name . "," . ". "  . $email ."," . "." . $ber
 
 
 
-
+header("Location: ../index.php?msg=Je mail is verzonden");
 
 ?>
+
