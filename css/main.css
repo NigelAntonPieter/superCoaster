@@ -260,4 +260,7 @@ textarea {
     page-break-after: avoid;
   }
 }
+.carImg img{
+  width: 500px;
+}
 
