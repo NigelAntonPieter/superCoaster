@@ -1,0 +1,44 @@
+<!doctype html>
+<html  lang="nl">
+
+<head>
+  <title>SuperCoaster</title>
+  <?php require_once 'head.php' ?> 
+
+</head>
+<body>
+
+
+<?php require_once 'header.php' ?> 
+<main>
+    <link rel="stylesheet" href="css/main.css">
+    <h2>Contact</h2>
+    <div class="ccPagina">
+        
+        <form action="backend/ccpagina.php" method="POST">
+
+                <div class="form-group">
+                    <label for="name">Naam:</label>
+                    <input type="text" placeholder="John Doe" name="name">
+                </div> 
+
+                <div class="form-group">
+                    <label for="email">E-mail</label>
+                    <input type="email" placeholder="johndoe@info.com" name="email">
+                </div>
+
+                <div class="form-group">
+                    <label for="bericht">Bericht:</label>
+                    <input type="text" placeholder="Voer hier je bericht in" name="bericht">
+                </div>
+                <div class="form-group">
+
+                    <input type="submit" value="Verzenden">
+                </div>  
+
+    </div>
+</main>   
+<?php require_once 'footer.php' ?> 
+
+</body>
+</html>
