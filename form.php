@@ -12,8 +12,9 @@
 <?php require_once 'header.php' ?> 
 <main>
     <link rel="stylesheet" href="css/main.css">
+    <h2>Contact</h2>
     <div class="ccPagina">
-        <h2>Contact</h2>
+        
         <form action="backend/ccpagina.php" method="POST">
 
                 <div class="form-group">
