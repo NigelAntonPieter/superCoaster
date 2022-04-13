@@ -17,13 +17,8 @@
 		<li>telefoonnummer: 0636******.</li>
 		<li>Email: a.visser@*****.nl.</li>
 		<li>adres: ****straat 8 4812**</li>
-
 	</ul>
 </div>
-<div class="fogo">
-	<img src="img/logo-big-v4.png" alt="logo">
-</div>
-
 
 
 </footer>	
