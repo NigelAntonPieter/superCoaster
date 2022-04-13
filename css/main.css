@@ -361,6 +361,9 @@ footer h3{
     page-break-after: avoid;
   }
 }
+.carImg img{
+  width: 500px;
+}
 
 .form{
 	background-color: lightblue;
