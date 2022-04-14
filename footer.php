@@ -17,6 +17,7 @@
 		<li>telefoonnummer: 0636******.</li>
 		<li>Email: a.visser@*****.nl.</li>
 		<li>adres: ****straat 8 4812**</li>
+		<li>&copy; SuperCoaster</li>
 	</ul>
 </div>
 
