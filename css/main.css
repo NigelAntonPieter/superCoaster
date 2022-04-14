@@ -395,3 +395,45 @@ display: flex;
 align-items: center;
 padding: 250px;
 }
+/*
+   * carr pagina
+   */
+
+
+.foto1 img{
+  width: 35%;
+  margin-top: 50px;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+.text1{
+  position: absolute;
+  left: 1390px;
+  top: 200px;
+  text-align: right;
+
+}
+.foto2 img{
+  width: 35%;
+  margin-top: 150px;
+  margin-left: 1300px;
+  border-radius: 20px;
+}
+.text2{
+  position: absolute;
+  left: 50px;
+  top: 1000px;
+  
+}
+.foto3 img{
+  width: 35%;
+  margin-top: 150px;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+.text3{
+  position: absolute;
+  left: 1550px;
+  top: 1700px;
+  text-align: right;
+}
